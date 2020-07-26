@@ -1,0 +1,1 @@
+This tool is useful in compiling the several individual listing report files into a single workbook file where report filenames are used to create individual sheets(tabs) in the file. There can be various file formats for reports e.g. csv, xls, xlsx, xml formatted xls or xlsx files. Depending on the file format, format within the tool's macro need to be updated.
